@@ -1,0 +1,1 @@
+python vcs.py test.vcs

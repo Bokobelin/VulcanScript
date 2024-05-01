@@ -1,0 +1,12 @@
+// Define a function to calculate factorial
+func factorial(n: int) -> int {
+    if n <= 1 {
+        return 1;
+    } else {
+        return n * factorial(n - 1);
+    }
+}
+
+// Calculate factorial of 5
+var result = factorial(5);
+print("Factorial of 5 is:", result);

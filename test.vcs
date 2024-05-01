@@ -1,0 +1,6 @@
+//print "hello world !"
+print(hello world !);
+//result: 8
+print(calc(3 + 5));
+equ(ax,5);
+print($ax);
